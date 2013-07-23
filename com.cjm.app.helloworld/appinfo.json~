@@ -1,0 +1,12 @@
+{
+	"title": "HELLOWORLD",
+	"version": "1.0.0",
+	"type": "web",
+	"main": "index.html",
+	"id": "com.cjm.helloworld",
+	"icon": "Helloworld-icon.png",
+	"vendor": "Cha Jeong Min",
+	"vendorurl": "http://www.facebook.com/cjm9236",
+	"visible": true,
+	"removable": true
+}
